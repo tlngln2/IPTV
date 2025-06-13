@@ -1,5 +1,4 @@
 辽宁,#genre#
-抚顺综合,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226894/index.m3u8
 沈阳新闻综合,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226895/index.m3u8
 沈阳新闻综合,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227315/index.m3u8
 辽宁卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226156/index.m3u8
@@ -30,6 +29,8 @@
 盘锦都市,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227495/index.m3u8
 盘锦新闻综合,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227529/index.m3u8
 阜新新闻综合,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227407/index.m3u8
+抚顺综合,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226894/index.m3u8
+
 央视,#genre#
 CCTV-1综合,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226190/index.m3u8
 CCTV-1综合,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226675/index.m3u8
